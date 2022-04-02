@@ -8,11 +8,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=50-Course.50-Course)
 <br />
 
-<center>
+<p align="center">
 
 ### Software Developer Engineer
 *Web Development - Backend, App Development - Cross-platform*
-</center>
+</p>
 
 <br />
 
@@ -44,7 +44,7 @@ Toss me a message on  <span> <a href="https://www.linkedin.com/in/symply-eri/"><
 
 <p></p>
 <div align="center">
-<p align="center">🛠 Technologies being learned</p>
+<p align="center">🛠 Tools I sometimes play with 😸 </p>
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
