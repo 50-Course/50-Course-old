@@ -26,7 +26,7 @@ I'm a Software Developer with strong affinity for Python, Javascript and its eco
 Outside coding, I'm in for board game battles, watching anime or trying to jump out my mind, *and i mean that, literally!*.
 Toss me a message on  <span> <a href="https://www.linkedin.com/in/symply-eri/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Eri Adeodu | LinkedIn" width="21px"/></a></span>
 
-### Technologies I use 👨🏻‍💻 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=22&color=1D6FF7&background=1E73FF00&vCenter=true&multiline=true&width=350&lines=%F0%9F%9B%A0+Top+Technologies)](https://git.io/typing-svg)  
  
  <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -44,7 +44,10 @@ Toss me a message on  <span> <a href="https://www.linkedin.com/in/symply-eri/"><
 
 <p></p>
 <div align="center">
-<p align="center">🛠 Tools I sometimes play with 😸 </p>
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=22&color=1D6FF7&background=1E73FF00&vCenter=true&multiline=true&width=350&lines=%F0%9F%9B%A0+Tools+I+sometimes+play+with+%F0%9F%98%B8)](https://git.io/typing-svg)
+</p>
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
