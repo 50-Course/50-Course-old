@@ -10,7 +10,7 @@
 
 <p align="center">
 
-### Software Developer Engineer
+### Software Development Engineer
 *Web Development - Backend, App Development - Cross-platform*
 </p>
 
