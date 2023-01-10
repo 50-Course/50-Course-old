@@ -30,6 +30,8 @@ Toss me a message on  <span> <a href="https://www.linkedin.com/in/symply-eri/"><
  
  <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -68,18 +70,5 @@ Toss me a message on  <span> <a href="https://www.linkedin.com/in/symply-eri/"><
 | --- | --- |
 | ![Eri's github stats](https://github-readme-stats.vercel.app/api?username=50-Course&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Simplified view](https://github-readme-streak-stats.herokuapp.com/?user=50-Course) |
 
-<br />
-
-<p>
-
-<span><h4 align="left">
-
-<center>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rtiuyk7kwryhvz4ieev73r4t4a&cover_image=true&theme=default&bar_color=0940f5)](https://github.com/kittinan/spotify-github-profile)
-</center>
-
-
-<br />
 
 # ![Header](./assets/footer.svg)
